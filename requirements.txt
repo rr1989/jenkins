@@ -1,0 +1,7 @@
+pandas
+requests
+json
+datetime
+colorama
+time
+futures
